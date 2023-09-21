@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698795997498",
+    "project_id": "smart-health-care-app-67335",
+    "storage_bucket": "smart-health-care-app-67335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698795997498:android:d2ad73ec41725feb77b803",
+        "android_client_info": {
+          "package_name": "com.experttechtechnology.extraviews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfXEAeVH48drseKA6kjJZTI9sDC1kr5qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
